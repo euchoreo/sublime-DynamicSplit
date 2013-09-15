@@ -1,0 +1,14 @@
+[
+  { "keys": ["ctrl+0"], 
+    "command": "fileview_split",
+    "args": {"splitDir":"u"} 
+  },
+  { "keys": ["ctrl+9"], 
+    "command": "fileview_split",
+    "args": {"splitDir":"v"} 
+  },
+  { "keys": ["ctrl+8"], 
+    "command": "fileview_split",
+    "args": {"splitDir":"h"} 
+  }
+]
