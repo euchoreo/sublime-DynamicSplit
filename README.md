@@ -1,4 +1,5 @@
-A simple package for Sublime text editor (tested with 3beta) that tries to create some of the functionality of emacs style Window splitting.
+DynamicSplit is a [Sublime Text 2][sublime] plugin that tries to create some of the functionality of emacs style Window splitting.
+
 ---
 
 Unlike Sublime's default Window splitting feature, this package splits the current Window in half, either vertically or horizontally.
@@ -51,5 +52,7 @@ For example:
     
     
     
+(tested with 3beta) 
+
 -James Liang
     
