@@ -54,5 +54,5 @@ For example:
     
 (tested with 3beta) 
 
--James Liang
+
     
